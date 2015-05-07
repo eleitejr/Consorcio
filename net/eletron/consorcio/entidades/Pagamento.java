@@ -1,5 +1,7 @@
 package net.eletron.consorcio.entidades;
 
+import java.util.Date;
+
 public class Pagamento {
   private int id;
   private String banco;
